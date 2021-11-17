@@ -1,0 +1,26 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "Api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dom-parser": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.8.0",
+    "html-parse-stringify": "^2.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.8",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "tabletojson": "^2.0.4"
+  }
+}
